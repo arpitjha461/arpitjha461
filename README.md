@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I’m currently working as a System Engineer (QA)<br>🤝 I’m looking to collaborate on Automation Testing, API Testing, and Python projects<br>🌱 I’m currently learning Python, REST APIs, Selenium, Git, and DevOps basics<br>💬 Ask me about Manual Testing, API testing (Postman), Python basics, Agile & Git<br>⚡ Fun fact: I enjoy learning tech step-by-step and improving every day
+⚡ I’m currently working as a System Engineer (QA)<br>🤝 I’m looking to collaborate on Automation Testing, API Testing, and Python projects<br>🌱 I’m currently learning Python, REST APIs, Selenium, Git, and DevOps basics<br>💬 Ask me about Automation Testing, API testing (Postman), Python basics,Java, Agile & Git<br>⚡ Fun fact: I enjoy learning tech step-by-step and improving every day
 
 
 ## 🌐 Socials:
