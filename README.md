@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Arpit 👋</h1>
+<h1 align="center">Hi there, I'm Arpit 💀</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Infosys;Automation+%26+API+Testing+Enthusiast;Learning+Python+%7C+Selenium+%7C+DevOps;Always+improving%2C+one+commit+at+a+time" alt="Typing SVG" />
@@ -77,8 +77,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/arpitjha461/arpitjha461/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
-
-> ⚠️ The snake animation above needs a **one-time GitHub Actions setup** (steps below) — it won't show until you add the workflow.
 
 ---
 
