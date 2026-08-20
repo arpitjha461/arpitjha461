@@ -58,12 +58,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://readme-stats-kohl-tau.vercel.app/api?username=arpitjha461&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://my-repo-iota-sable.vercel.app/api?username=arpitjha461&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://streak-stats.demolab.com/?user=arpitjha461&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://readme-stats-kohl-tau.vercel.app/api/top-langs/?username=arpitjha461&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://my-repo-iota-sable.vercel.app/api/top-langs/?username=arpitjha461&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
