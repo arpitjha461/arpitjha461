@@ -1,86 +1,88 @@
-<h1 align="center">Hi there, I'm Arpit 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Infosys;Automation+%26+API+Testing+Enthusiast;Learning+Python+%7C+Selenium+%7C+DevOps;Always+improving%2C+one+commit+at+a+time" alt="Typing SVG" />
-</p>
+<!-- ✨ Animated Banner ✨ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./megha-banner.svg?v=7">
+  <source media="(prefers-color-scheme: light)" srcset="./megha-banner-light.svg?v=1">
+  <img src="./megha-banner.svg?v=7" alt="Megha Mittal — Frontend Developer" width="100%"/>
+</picture>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="400">
-</p>
+</div>
 
----
+<br/>
 
-### 💫 About Me
+<table align="center" border="0">
+<tr>
+<td width="38%" align="center" valign="middle">
 
-- 🎯 System Engineer at **Infosys**, focused on Automation Testing, API Testing & Python
-- 🌱 Currently deepening my skills in **Python, REST APIs, Selenium, Git & DevOps**
-- 🤝 Open to collaborating on **Automation Testing, API Testing & Python projects**
-- 💬 Ask me about **Automation Testing, Postman/API testing, Python basics, Java, Agile & Git**
-- ⚡ Fun fact: I love learning tech step-by-step and getting a little better every day
+<!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
+<img src="./megha-lanyard.svg?v=2" alt="Megha Mittal ID badge" width="330"/>
 
----
+</td>
+<td width="62%" valign="middle">
 
-### 🌐 Connect with Me
+### 🌸 My Anime Creations
 
-<p align="left">
-  <a href="https://linkedin.com/in/arpitjha461" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/offic_ial24.7" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:arpitvishw361@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+| 🎌 Project | 💻 Tech | ⭐ |
+|:---|:---:|:---:|
+| [🍥 Naruto — Sage Mode](https://github.com/Meghamittal0920/Naruto-SageMode) | `HTML` `CSS` `JS` | 25 |
+| [⚔️ Zoro — King of Hell](https://github.com/Meghamittal0920/Zoro-King-of-hell) | `HTML` `CSS` `JS` | 9 |
+| [🌙 Demon Slayer — Yoriichi & Kokushibo](https://github.com/Meghamittal0920/Demon-Slayer-Yorichi-Kokoshibo-) | `HTML` `CSS` `JS` | 8 |
+| [👁️ JJK — Sukuna](https://github.com/Meghamittal0920/JJK-Sakuna) | `HTML` `CSS` `JS` | 8 |
+| [🏴‍☠️ One Piece 3D Website](https://github.com/Meghamittal0920/One-Piece-3D-Website) | `TypeScript` `Three.js` | 2 |
 
----
+<br/>
 
-### 💻 Tech Stack
+> 💗 *"I don't watch anime, I code anime."*
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://my-repo-iota-sable.vercel.app/api?username=arpitjha461&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=arpitjha461&theme=tokyonight&hide_border=true" />
-</p>
+### 📊 GitHub Stats & Graphs
 
-<p align="center">
-  <img src="https://my-repo-iota-sable.vercel.app/api/top-langs/?username=arpitjha461&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="./megha-stats.svg?v=2" alt="GitHub Stats" height="185"/>
+<img src="./megha-langs.svg?v=2" alt="Top Languages" height="185"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitjha461&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
+<br/><br/>
 
----
+<img src="https://streak-stats.demolab.com?user=Meghamittal0920&theme=radical&hide_border=true&background=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc" alt="GitHub Streak"/>
 
-### 🐍 Contribution Snake
+<br/><br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arpitjha461/arpitjha461/output/github-contribution-grid-snake.svg" width="100%" />
-</p>
----
+<!-- 📈 Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meghamittal0920&bg_color=170e28&color=ff7eb6&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20💗" alt="Contribution graph" width="95%"/>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=arpitjha461&icon=0&color=0" />
-</p>
+<br/><br/>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/arpitjha461">arpitjha461</a></i></p>
+<!-- 🏆 Trophies (local animated SVG — always loads) -->
+<img src="./megha-trophies.svg?v=2" alt="Trophies" width="95%"/>
+
+<br/><br/>
+
+### 🐍 Watch the snake eat my contributions
+
+<img src="https://raw.githubusercontent.com/Meghamittal0920/Meghamittal0920/output/github-snake-pink.svg" alt="Contribution snake"/>
+
+<br/><br/>
+
+### 📫 Let's Connect
+
+<a href="mailto:meghamittal563@gmail.com"><img src="https://img.shields.io/badge/Email-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Meghamittal0920"><img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.instagram.com/codergirl.megha"><img src="https://img.shields.io/badge/Instagram-e879f9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.youtube.com/@codergirlmegha"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Meghamittal0920&color=ff7eb6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+*⭐️ Always learning, always building.* 💗
+
+</div>
