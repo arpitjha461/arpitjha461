@@ -37,20 +37,20 @@
 
 ### 📊 GitHub Stats & Graphs
 
-<img src="https://my-repo-iota-sable.vercel.app/api?username=arpitjha461&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=170e28&title_color=ec4899&icon_color=c084fc" alt="GitHub Stats" height="185"/>
-<img src="https://my-repo-iota-sable.vercel.app/api/top-langs/?username=arpitjha461&layout=compact&theme=radical&hide_border=true&bg_color=170e28&title_color=ec4899" alt="Top Languages" height="185"/>
+<img height="165" src="https://my-repo-iota-sable.vercel.app/api?username=arpitjha461&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=arpitjha461&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=arpitjha461&theme=radical&hide_border=true&background=170e28&ring=ec4899&fire=e879f9&currStreakLabel=c084fc" alt="GitHub Streak"/>
+<img src="https://my-repo-iota-sable.vercel.app/api/top-langs/?username=arpitjha461&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitjha461&bg_color=170e28&color=ec4899&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20💗" alt="Contribution graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitjha461&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="95%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=arpitjha461&theme=radical&no-frame=true&margin-w=10&row=1" alt="Trophies" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=arpitjha461&theme=tokyonight&no-frame=true&margin-w=10&row=1" alt="Trophies" width="95%"/>
 
 <br/><br/>
 
