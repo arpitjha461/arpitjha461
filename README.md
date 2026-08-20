@@ -1,18 +1,10 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:EC4899&height=200&section=header&text=Arpit%20Vishwakarma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20@%20Infosys&descAlignY=55&descSize=18" width="100%"/>
-
-</div>
-<br/>
-
-<table align="center" border="0">
+<table align="center" border="0" width="100%">
 <tr>
-<td width="38%" align="center" valign="middle">
+<td width="55%" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=EC4899&center=true&vCenter=true&width=300&height=100&lines=System+Engineer;Automation+Tester;Python+%2B+Selenium;Always+Learning+💗" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=EC4899&center=false&vCenter=true&width=500&height=110&lines=Hi%2C+I'm+Arpit+👋;Software+Engineer+%40+Infosys;Automation+%26+API+Testing;Python+%2B+Selenium+%2B+Java" alt="Typing SVG" />
 
-</td>
-<td width="62%" valign="middle">
+<br/>
 
 ### 🧪 What I Build & Test
 
@@ -29,9 +21,15 @@
 > 💗 *"I don't just test software, I break it before it breaks in production."*
 
 </td>
+<td width="45%" align="center" valign="middle">
+
+<img src="./arpit-photo.jpeg" alt="Arpit Vishwakarma" width="380" style="border-radius:16px;"/>
+
+</td>
 </tr>
 </table>
 <br/>
+
 
 <div align="center">
 
