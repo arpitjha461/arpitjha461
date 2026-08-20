@@ -77,9 +77,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/arpitjha461/arpitjha461/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
-
-> ⚠️ The snake animation above needs a **one-time GitHub Actions setup** (steps below) — it won't show until you add the workflow.
-
 ---
 
 <p align="center">
