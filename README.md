@@ -7,9 +7,9 @@
 <p align="center">
   <img src="dnd.svg" alt="DND Graphic" width="400" />
 </p>
-<!-- <p align="center">
+<p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c2Y4dmM5bXZ2NjBpZTk3OXk5MmwyMG1xa2JnNmp5NWMzaXJsYjdzOSZlcD12MV9zdGlja2Vyc190cmVuZGluZyZjdD1z/gKrbnqo25MlI2TUC78/giphy.gif" width="400">
-</p> -->
+</p>
 
 <table align="center" border="0">
 <tr>
