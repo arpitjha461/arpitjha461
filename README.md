@@ -3,10 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:EC4899&height=200&section=header&text=Arpit%20Vishwakarma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20@%20Infosys&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
-<br/>
+<!-- <br/>
 <p align="center">
   <img src="dnd.svg" alt="DND Graphic" width="400" />
-</p>
+</p> -->
 <!-- <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c2Y4dmM5bXZ2NjBpZTk3OXk5MmwyMG1xa2JnNmp5NWMzaXJsYjdzOSZlcD12MV9zdGlja2Vyc190cmVuZGluZyZjdD1z/gKrbnqo25MlI2TUC78/giphy.gif" width="400">
 </p> -->
