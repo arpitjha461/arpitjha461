@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:EC4899&height=200&section=header&text=Arpit%20Vishwakarma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20@%20Infosys&descAlignY=55&descSize=18" width="100%"/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:EC4899&height=200&section=header&text=Arpit%20Vishwakarma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20@%20Infosys&descAlignY=55&descSize=18" width="100%"/>
-</div>
-
 <!-- Side-by-Side Layout: GIF on Left, Text on Right -->
 <table border="0" width="100%">
   <tr>
@@ -36,7 +32,7 @@
 <p align="center">
   <img src="dnd.svg" alt="DND Graphic" width="400" />
 </p> -->
-<p align="left">
+<!-- <p align="left">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNscWx6MW9xZWkxZnNza2FmbG02eDJrdmc4bnd3bG16YjdpNmV5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZDNQdzCUjIK9VNUE2c/giphy.gif" width="350">
 </p>
 
@@ -58,7 +54,6 @@
 - 💬 Ask me about **Automation Testing, Postman/API testing, Python basics, Java, Agile & Git**
 - ⚡ Fun fact: I love learning tech step-by-step and getting a little better every day
 
----
 
 ### 🌐 Connect with Me
 
