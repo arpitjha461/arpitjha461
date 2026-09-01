@@ -8,7 +8,7 @@
   <img src="dnd.svg" alt="DND Graphic" width="400" />
 </p> -->
 <p align="center">
-<img src="https://giphy.com/stickers/coffee-cup-of-lefacciotte-ZDNQdzCUjIK9VNUE2c" width="400">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNscWx6MW9xZWkxZnNza2FmbG02eDJrdmc4bnd3bG16YjdpNmV5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZDNQdzCUjIK9VNUE2c/giphy.gif" width="400">
 </p>
 
 <table align="center" border="0">
