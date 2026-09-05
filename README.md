@@ -7,9 +7,11 @@
 <!-- <p align="center">
   <img src="dnd.svg" alt="DND Graphic" width="200" />
 </p> -->
-<p align="center">
-  <img src="dark_mode.svg" alt="DND Graphic" width="200" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="arpitjha461's GitHub profile" src="dark_mode.svg" />
+</picture>
 <!-- <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c2Y4dmM5bXZ2NjBpZTk3OXk5MmwyMG1xa2JnNmp5NWMzaXJsYjdzOSZlcD12MV9zdGlja2Vyc190cmVuZGluZyZjdD1z/gKrbnqo25MlI2TUC78/giphy.gif" width="400">
 </p> -->
